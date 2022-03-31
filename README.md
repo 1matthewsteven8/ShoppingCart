@@ -1,1 +1,1 @@
-# ShoppingCart
+# JavaProjects
